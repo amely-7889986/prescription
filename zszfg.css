@@ -1,0 +1,214 @@
+body{
+	margin:0 auto;
+	text-align:left;
+	font-size:12px;
+}
+img{ border:0;}
+a{ text-decoration:none; color:#006699;}
+a:hover{ text-decoration:underline;}
+ul, ol, li, p, h1, h2, h3, h4, h5, h6, form, fieldset, table, td, img, div{
+	list-style-type: none;
+	margin:0px; padding:0px;
+}
+
+.layout,.top,.main,.bannav,.nav{ margin:0 auto; clear:both;}
+
+
+/*bannav*/
+.bannav{ height:73px; }
+.bannav-wz2{ text-align:center; line-height:22px; width:100%; padding-top:15px; color:#690; height:53px; border-top:1px solid #c5d703}
+/*bannav*/
+
+
+
+/*ht_dl*/
+.zszfg_ht_kuang{ width:1024px; margin:0 auto; text-align:center; padding-top:30px}
+.zszfg_ht_body{background:#02a5a2; width:100%;}
+.zszfg_ht_top{background:url(../images/zfg_ht_top.png)  repeat-x center top; width:100%; margin:0px auto 0px auto; overflow:hidden; height:124px;}
+.zszfg_ht_main{ width:100%; overflow:hidden; margin:0 auto;}
+.zszfg_ht_m_k{ width:1024px; margin:0 auto; background:url(../images/zfg_ht_bj2.png) no-repeat center 14px; height:454px; overflow:hidden}
+.zszfg_ht_bottom{background:url(../images/zfg_ht_bottom.png)  repeat-x center top; width:100%; margin:0 auto 0 auto; overflow:hidden; height:35px; text-align:center; color:#014d93; line-height:45px;}
+
+.body_div{ width:419px; margin:100px auto 0 auto; height:219px; overflow:hidden; padding:35px 20px 0px 20px; background:url(../images/zscyy_admin_07.png) no-repeat}
+.body_bannav{ width:530px; margin:10px auto; overflow:hidden; text-align:center; line-height:30px; color:#f6f6f6;}
+.nb_htdl_li4{ width:120px; float:left; text-align:right;}
+.nb_htdl_li4 li{ line-height:40px; text-align:right;color:#3f6780; font-size:14px}
+.nb_htdl_l_span{ float:left; line-height:40px; padding-left:10px}
+.nb_htdl_right4{ width:270px; float:left;}
+.nb_htdl_right4 li{ width:270px; float:left; line-height:20px; padding:5px 0px; height:30px; }
+.nb_htdl_right4 span{ float:left; line-height:20px; color:#4d98ea; padding:0px 5px 0px 0px}
+.nb_htdl_r_b{ width:180px; height: 23px;overflow: hidden; border:1px solid #b3cbdc; background:#f1f9ff;float:left;color:#666;  height:23px; overflow:hidden;text-indent:5px; line-height:23px;background: url(../images/zswl_12.jpg) no-repeat;}
+.nb_htdl_r_b2{ width:50px;height: 23px;overflow: hidden; border:1px solid #b3cbdc; background:#f1f9ff;float:left;  color:#666;  height:23px; text-indent:5px;line-height:23px;background: url(../images/zswl_12.jpg) no-repeat;}
+.nb_gwc_zhuce_an{ background:url(../images/zswl_dl.jpg) no-repeat; width:84px; float:left; height:35px;}
+
+/*ht_dl*/
+
+/*ht_fl*/
+.zszfg_ht_fl_m{ width:1024px; margin:0 auto;overflow:hidden;}
+.zszfg_ht_fl_m_li{ background:url(../images/zfg_ht_01.png) no-repeat center top; height:41px; line-height:41px; margin:0 auto; overflow:hidden; color:#fff; width:100%; font-size:14px; text-align:center}
+.zszfg_ht_fl_m_li a,.main_main_a a,.ht_top_fl_a a{ color:#fff;}
+
+.top_main{ width:1024px; margin:0 auto; overflow:hidden}
+.top_main_logo{ float:left; width:580px; height:130px; padding-top:20px}
+.top_main_right{ float:right; width:300px; text-align:center}
+.top_main_right span{ width:200px;line-height:30px; padding-top:15px; color:#fff; font-size:14px}
+.top_main_right span a{ color:#fff;}
+.top_main_right img{ text-align:center; padding:20px 0 0 0 }
+
+.main_main_a{ width:900px; margin:0 auto; overflow:hidden; padding:40px 50px 10px 50px;}
+.main_main_a li{ background:url(../images/py_qd_bj_01.png) no-repeat center top; width:290px; height:230px; padding:0px; float:left; text-align:center; font-size:14px; color:#fff; margin:5px 0px 0px 0px; display:inline}
+.main_main_a img{ padding:11px 0px 7px 0px}
+.main_main_a li:hover{ background:url(../images/py_qd_bj_02.png) no-repeat}
+/*ht_fl*/
+
+
+/*ht_main*/
+.ht_top_main{ width:100%; margin:0 auto; overflow:hidden; background:url(../images/zfg_ht_02.png) repeat-x #e9f6fc 0 -123px; height:35px; overflow:hidden}
+
+.ht_top_fl_a{ width:1124px; margin:0 auto; overflow:hidden;}
+
+
+.ht_top_fl_a1{ background:url(../images/zfg_ht_05.png) no-repeat center -123px; width:132px; height:40px; float:left; text-align:center; font-size:12px; color:#fff;display:inline;line-height:37px}
+.ht_top_fl_a1 img{ padding:5px 0px 13px 0px}
+.ht_top_fl_a1:hover{ background:url(../images/zfg_ht_05.png) no-repeat left -123px;}
+
+.ht_top_fl_a2{ width:132px; height:40px; float:left; text-align:center; font-size:12px; color:#fff;display:inline;background:url(../images/zfg_ht_04.png) no-repeat center -99px; line-height:37px}
+.ht_top_fl_a2 img{ padding:5px 0px 13px 0px}
+.ht_top_fl_a2:hover{ background:url(../images/zfg_ht_05.png) no-repeat left -123px;}
+
+.ht_top_fl_a div{ float:left; background:url(../images/zfg_ht_04.png) no-repeat left -99px; color:#fff;height:25px; padding-left:10px; padding-top: 11px;}
+.ht_top_fl_wz{ width:1024px; margin:0 auto; overflow:hidden; line-height:32px; color:#fff; height:32px;}
+.ht_top_fl_wz a{ color:#fff;}
+
+
+
+
+
+
+.ht_top_fl_main{ background:#e9f6fc; width:100%;overflow:hidden; margin:0 auto;}
+.ht_top_fl_m_td3 {
+    border: 1px solid #91c7df;
+    margin: 5px auto 10px auto;
+    width: 100%; overflow:hidden;
+	color:#006699;
+	background:#E6F4FA
+}
+.ht_top_fl_m_td3 td{ border-bottom:1px solid #91c7df;}
+.ht_top_fl_m_td3 tr{ border-bottom:1px solid #91c7df; height:30px}
+.ht_top_fl_m_td3 tr:hover{ background:#cee9f6;}
+
+.ht_top_m_wz{ width:100%; overflow:hidden; line-height:30px; margin:7px auto 0 auto; border:1px solid #91c7df; background:#cee9f6; text-indent:10px}
+.admin_cx{ background:url(../images/zscyy_admin_bj.png) repeat-x; line-height:20px; height:20px; border:1px solid #91c7df; padding:0px 10px; float:left; color:#069; display:inline; font-size:12px; cursor:pointer;
+	margin: 5px 5px 5px 5px;
+}
+.admin_cx:hover{ background:#fff}
+
+.paginator{height:35px; text-align:center; float:left; margin-top:-7px; margin-left:10px}
+.paginator a{ color:#333;line-height:45px; border:1px solid #dedede; padding:2px 7px;font-weight:bold; background:#fff}
+.paginator a:hover{ text-decoration:none;color:#FFF; font-weight:bold; background:#09C; }
+/*ht_main*/
+
+
+/*left__13%*/
+.glzs_left_div{ width:15.3%; float:left; background:#e6f4fa; height:600px;}
+.glzs_right_div{ width:100%; float:right;  background:#e6f4fa; height:570px;}
+
+/*________________________________gzlx-fenglei____________________________________*/
+.jkcp_left_wz{ width:193px; float:left;border-top:none; padding-top:10px;}
+.leftmenu{
+	height:auto;
+	margin:0 auto;
+	width:100%;
+}
+.lefdfl{ width:100%; }
+.pclist a{ text-decoration:none; color:#006699}
+.lmenub{height:25px;line-height:25px;color:#006699;font-size:14px;font-weight:700;text-align:left;text-indent:19px;cursor:pointer;}
+.lmenua{height:25px;line-height:25px;color:#006699;font-size:14px;font-weight:700;text-align:left;text-indent:19px;cursor:pointer;width:100%}
+.lmenuc{font-size:12px;height:30px;line-height:30px;cursor:pointer;text-indent:30px;color:#006699;font-weight:700;background:url(../images/zswl_07.jpg) no-repeat;border-botoom: 1px #eaeaea solid;width:100%;
+}
+.lmenud{font-size:12px;height:29px;line-height:30px;text-indent:10px;font-weight:normal;cursor:pointer;text-indent:30px;background:url(../images/zswl_06.jpg) no-repeat;border-bottom:1px solid #afcfdd; color:#006699; }
+.pclist{width:160px; padding:5px 0 0 15px;}
+.pclist li{height:25px;line-height:25px;font-size:12px;padding-left:25px; width:140px;  background:url(../images/hjx_11.jpg) no-repeat 14px 10px; overflow:hidden}
+.pclist .active{background:#FFFFCC; height:15px; border:1px solid #CEB70D; padding:1px 3px;}
+/*________________________________gzlx-fenglei________________________________*/
+.admin_i_xxam2{ width:32%; float:left; margin-left:10px; margin-top:10px; border:1px solid #d0e1e6; background:#fff}
+.admin_i_xxam2 h3{ width:100%; background:url(../images/zscyy_30.jpg) repeat-x; height:28px; line-height:28px; border-bottom:1px solid #d0e1e6; font-size:14px; background-color:#FFFFFF}
+.admin_i_xxam2 h3 a{ color:#069; float:left;}
+.admin_i_xxam2 h3 img{ vertical-align:-2px; margin:5px; float:left;}
+.admin_i_xxam2 span{ float:left; width:100%;background:#f3f9fc}
+.admin_i_xxam2 span li{ line-height:30px; float:left; width:99%; background:url(../images/web2_bttb2.gif) no-repeat 5px 5px; height:30px; overflow:hidden; text-indent:25px;}
+.admin_i_xxam2 span a,.admin_i_xxam span a{ float:left;}
+.admin_i_xxam2 span img,.admin_i_xxam span img{ vertical-align:-3px; padding:2px 5px; float:left}
+.admin_i_xxam2 td
+{
+    color:#006699;
+}
+.admin_i_xxam2 ul
+{
+    height:150px;
+}
+.admin_i_xxam2 table
+{
+    height:150px;
+}
+
+
+
+
+/*
+2014年8月14日10:17:52 
+修改内容：AO系统的弹出窗口表格样式未能正常的读取
+*/
+
+.admin_right_pop {
+	/*border: 1px solid #91c7df;*/
+	margin: 15px auto;
+	width: 98%; /*overflow:hidden;*/
+	color: #006699;
+	text-indent: 5px;
+	border-spacing: 0px !important;
+	border-collapse: collapse !important;
+}
+.admin_right_pop tr td{
+	border: 1px solid #91c7df;
+}
+
+.admin_right_td3>tbody>tr:hover {
+	background: #cee9f6;
+}
+
+
+.admin_right_pop>tbody>tr:first-child{
+	text-align: center;
+	border: 1px solid #AED0EA;
+	background: url(../images/fwzs_admin_010.jpg) repeat-x left top;
+	line-height: 28px;
+}
+.admin_right_pop th{
+	text-align: center;
+	border: 1px solid #AED0EA;
+	background: url(../images/fwzs_admin_010.jpg) repeat-x left top;
+	line-height: 28px;
+}
+.admin_right_pop {
+	background: #fff;
+}
+.admin_right_pop tr{
+	height: 24px;
+	line-height: 24px;
+}
+
+/*
+2014年8月15日14:12:30 
+修改功能模块：index.aspx页面的系统座面的窗口样式
+*/
+.admin_i_xxam2_1>table>tbody>tr{
+	width: 96%;
+	height: 26px;
+	line-height:26px;
+	padding-left: 6px;
+	color: #006699;
+}
+#DeskTop{
+	overflow:hidden;
+}
